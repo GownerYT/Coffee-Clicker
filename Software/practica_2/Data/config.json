@@ -1,0 +1,7 @@
+{
+  "databasePort": 3306,
+  "databaseIP": "localhost",
+  "databaseName": "coffeeclicker_db",
+  "databaseUser": "root",
+  "databasePassword": ""
+}
